@@ -17,12 +17,14 @@ python manage.py makemigrations
 python manage.py migrate
 python api/populate_data.py
 python manage.py runserver
-
+```
 ### 2. Frontend Vue.js 3
 
+```bash
 cd frontend
 npm install
 npm run dev
+```
 
 Le frontend sera accessible sur http://localhost:5173/
 
