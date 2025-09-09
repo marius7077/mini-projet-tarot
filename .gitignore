@@ -1,0 +1,14 @@
+# Python / Django
+*.pyc
+__pycache__/
+db.sqlite3
+venv/
+*.log
+*.pot
+*.py[cod]
+api/migrations/0*.py
+
+# Node / Vue
+node_modules/
+dist/
+.env
